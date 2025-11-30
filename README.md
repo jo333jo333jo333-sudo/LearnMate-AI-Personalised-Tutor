@@ -29,14 +29,17 @@ This project explores how AI can be used to create a personalized tutoring agent
 
 ---
 
-### 🛠️ Features (Planned & Implemented)
+### 🧩 Features — Planned vs Built
 
-- [✔] Initial research notebook  
-- [✔] Concept architecture  
-- [ ] Adaptive learning path  
-- [ ] Personalized quiz generator  
-- [ ] Learning analytics dashboard  
-- [ ] Deployable agent  
+| Feature | Status |
+|--------|--------|
+| Initial Research Notebook | ✅ Completed |
+| Concept Architecture | ✅ Completed |
+| Adaptive Learning Path | 🔄 In Progress |
+| Personalized Quiz Generator | 🎯 Planned |
+| Learning Analytics Dashboard | 🎯 Planned |
+| Deployable AI Agent | 🎯 Planned |
+
 
 ---
 
